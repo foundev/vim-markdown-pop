@@ -22,3 +22,7 @@ Plug 'foundev/vim-markdown-pop'
 ```
 
 For best results enable true color: `set termguicolors`.
+
+## License
+
+MIT
