@@ -2,7 +2,7 @@
 function! mdpop#apply() abort
   " headings: each level a different color, H1/H2 with background bars
   hi markdownH1        ctermfg=16  ctermbg=204 cterm=bold guifg=#000000 guibg=#ff5f87 gui=bold
-  hi markdownH2        ctermfg=16  ctermbg=215 cterm=bold guifg=#000000 guibg=#ffaf5f gui=bold
+  hi markdownH2        ctermfg=215 ctermbg=237 cterm=bold guifg=#ffaf5f guibg=#3a3a3a gui=bold
   hi markdownH3        ctermfg=221 cterm=bold,underline   guifg=#ffd75f gui=bold,underline
   hi markdownH4        ctermfg=114 cterm=bold             guifg=#87d787 gui=bold
   hi markdownH5        ctermfg=117 cterm=bold             guifg=#87d7ff gui=bold

@@ -4,7 +4,8 @@ Makes markdown elements visually distinct in Vim, on top of whatever colorscheme
 
 | Element | Look |
 |---|---|
-| `# H1` / `## H2` | black text on pink / orange bars |
+| `# H1` | black text on a pink bar |
+| `## H2` | bold orange text on a dark gray bar |
 | `###`–`######` | bold yellow (underlined) / green / cyan / purple |
 | `**bold**` | bright white bold |
 | `*italic*` | pale yellow italic |
