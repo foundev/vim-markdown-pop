@@ -18,7 +18,7 @@ Works with Vim's built-in markdown syntax and with `preservim/vim-markdown`.
 ## Install
 
 ```vim
-Plug 'YOUR_GITHUB_USER/vim-markdown-pop'
+Plug 'foundev/vim-markdown-pop'
 ```
 
 For best results enable true color: `set termguicolors`.
